@@ -8,7 +8,7 @@
 #   
 #    To run me:  python Hello.py
 #____________________________________________________________________________
-a little change here
+
 #------------------------------------------------
 #                  IMPORTS
 #------------------------------------------------
@@ -32,7 +32,7 @@ a little change here
 def main():
 
     #To print something to the screen in Python.
-    print("\n Hello Python Multiverse!\n\n")
+    print("\n Hello Python Multiverse from UVA Summer 2026!\n\n")
 
 
 #Call the main function
